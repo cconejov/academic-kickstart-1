@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Cesar Conejo Villalobos is an actuary graduated from the University of Costa Rica with five years of experience in bank and finance industry. Along this path, He has learned and applied different techniques in backend and frontend data science, especially in data storage infrastructure, efficient computing, data analysis, and prediction algorithms focused on fraud detection. Cesar is also a philosophy lover, a passion that he shares with data science through the study of data ethics and data democratization
+Cesar Conejo Villalobos is an actuary graduated from the University of Costa Rica with five years of experience in bank and finance industry. Along this path, he has learned and applied different techniques in backend and frontend data science, especially in data storage infrastructure, efficient computing, data analysis, and prediction algorithms focused on fraud detection. Cesar is also a philosophy lover, a passion that he shares with data science through the study of data ethics and data democratization
