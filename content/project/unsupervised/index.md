@@ -15,7 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo taken from https://quoracreative.com/article/machine-learning-marketing-Sales"
+  caption: "Image credit: [**quoracreative.com**](https://quoracreative.com/article/machine-learning-marketing-Sales)"
+
   focal_point: ""
   preview_only: false
 

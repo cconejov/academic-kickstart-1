@@ -11,7 +11,7 @@ date: "2020-03-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo taken https://www.norwegiancreations.com/2018/10/artificial-intelligence-machine-learning-from-supervised-learning/
+  caption: "Image credit: [**www.norwegiancreations.com**](https://www.norwegiancreations.com/2018/10/artificial-intelligence-machine-learning-from-supervised-learning/)"
   focal_point: Smart
 
 links:
@@ -67,7 +67,7 @@ purchased_bike <- read.table("purchasedBikes.csv",
 
 Because the purpose of this exercise is to compare the performance of some techniques, we can see that the outcome variable _PurchasedBike_ is well balanced (48% of the observations in the data set corresponding to Yes value).
 
-{{< figure src="plot1_balanced_outcome.png" title="A caption" lightbox="true" >}}
+{{< figure src="plot1_balanced_outcome.png" title="" lightbox="true" >}}
 
 ```r
 ggplot(data = purchased_bike) +
@@ -296,7 +296,7 @@ ggplot(data = detect, aes(x = Iteration) ) +
   scale_color_manual(values = colors)
 ```
 
-{{< figure src="plot2_quantity_yes.png" title="A caption" lightbox="true" >}}
+{{< figure src="plot2_quantity_yes.png" title="" lightbox="true" >}}
 
 Besides, Random forest also has the lest average global error, so this method also classifies very well the negative case of bike did not purchase.
 
@@ -317,4 +317,4 @@ ggplot(data = global_error, aes(x = Iteration) ) +
   scale_color_manual(values = colors)
 ```
 
-{{< figure src="plot3_avg_error.png" title="A caption" lightbox="true" >}}
+{{< figure src="plot3_avg_error.png" title="" lightbox="true" >}}
