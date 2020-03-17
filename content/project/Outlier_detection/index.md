@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Unsupervised Algorithms in Machine Learning"
-summary: "In this project, we review two methods of unsupervised techniques: k-means and hierarchical clustering."
+title: "Anomaly Detection using R"
+summary: "Identifying and predicting anomalies in time series is crucial for decision making. So, we are going to use an option in R for doing the work."
 authors: []
 tags: []
 categories: []
-date: 2020-03-08T21:44:22-06:00
+date: 2020-03-17T16:53:01-06:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,8 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Image credit: [**quoracreative.com**](https://quoracreative.com/article/machine-learning-marketing-Sales)"
-
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -29,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "files/Unsupervised_Algorithms.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -40,5 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This project provides some examples of unsupervised algorithms in machine learning. In these techniques, we need to infer the properties of the observations without the help of an output variable or _supervisor_. We review two methods: k-means and hierarchical clustering. Then we use
-some data from Kaggle for applying these techniques to produce a customer segmentation. The platform that we use is R. Because of the number of observations, we are going to use a parallel process for improving the execution times.
+Currently, a lot of processes cause information that can be gathered as time series. Predicting anomalies in the observations also is crucial for decision making. Identifying those events in time series is usually complicated, so packages like _Anomalize_ in R brings effective
+solutions for identifying outliers observations.
+
+Work in progress.

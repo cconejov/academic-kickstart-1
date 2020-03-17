@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-On the Internet, you can find a lot of definitions of data science. My preferred description of this science I founded in the Harvard Data Science Review (HDSR). Rafael A. Irizarry defines data science as _"an umbrella term to describe the entire complex and multistep processes used to extract value from data"_ (Irizarry, 2020). Following this definition, a strong data scientist require to have expertise in the following areas (Diesinger, 2016):
+On the Internet, you can find a lot of definitions of data science. My preferred description of this science I founded it in the Harvard Data Science Review (HDSR). Rafael A. Irizarry defines data science as _"an umbrella term to describe the entire complex and multistep processes used to extract value from data"_ (Irizarry, 2020). Following this definition, a strong data scientist require to have expertise in the following areas (Diesinger, 2016):
 
 * Technical skills.
 * Analytical skills.
