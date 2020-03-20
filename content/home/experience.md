@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "BI Analyst Senior"
   company = "BAC CREDOMATIC"
-  company_url = ""
+  company_url = "https://www.baccredomatic.com/es-cr"
   location = "Costa Rica"
   date_start = "2017-07-01"
   date_end = "2019-12-01"
   description = """
-  Responsibilities include:
+  Responsibilities included:
 
   * Development of metrics and interactive dashboards.
   * Design and development of algorithms for credit card fraud detection.
@@ -34,10 +34,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "BI Analyst Junior"
   company = "BAC CREDOMATIC"
-  company_url = ""
+  company_url = "https://www.baccredomatic.com/es-cr"
   location = "Costa Rica"
   date_start = "2014-12-01"
   date_end = "2017-07-01"
-  description = """ Implementing models for fraud detection, development of statistical models and actuarial analysis."""
+  description = """ Implemented models for fraud detection, development of statistical models and actuarial analysis."""
 
 +++

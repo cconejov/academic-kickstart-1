@@ -318,3 +318,6 @@ ggplot(data = global_error, aes(x = Iteration) ) +
 ```
 
 {{< figure src="plot3_avg_error.png" title="" lightbox="true" >}}
+
+## References
+Hastie T., Tibshirani R., Friedman J. 2008. The elements of Statistical Learning. Springer.

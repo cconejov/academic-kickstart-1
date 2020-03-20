@@ -1,10 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Unsupervised Algorithms in Machine Learning"
+title: "Unsupervised Algorithms"
 summary: "In this project, we review two methods of unsupervised techniques: k-means and hierarchical clustering."
 authors: []
-tags: []
+tags:
+- Machine Learning
+- Unsupervised Algorithms
+- Clustering
 categories: []
 date: 2020-03-08T21:44:22-06:00
 
@@ -22,11 +25,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/cconejov
 
 url_code: ""
 url_pdf: "files/Unsupervised_Algorithms.pdf"
@@ -41,4 +44,4 @@ url_video: ""
 slides: ""
 ---
 This project provides some examples of unsupervised algorithms in machine learning. In these techniques, we need to infer the properties of the observations without the help of an output variable or _supervisor_. We review two methods: k-means and hierarchical clustering. Then we use
-some data from Kaggle for applying these techniques to produce a customer segmentation. The platform that we use is R. Because of the number of observations, we are going to use a parallel process for improving the execution times.
+some data from [Kaggle](https://www.kaggle.com/arjunbhasin2013/ccdata)  for applying these techniques to produce a customer segmentation. The platform that we use is [R](https://cran.r-project.org/). Because of the number of observations, we are going to use a parallel process for improving the execution times using the [snow](https://cran.r-project.org/web/packages/snow/index.html) package.

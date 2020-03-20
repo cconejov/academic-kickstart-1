@@ -86,7 +86,7 @@ phone = "+506 8827 1790"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Palmares", city = "Perez Zeledon", region = "SJO", postcode = "11903", country = "Costa Rica", country_code = "CR"}
+address = {street = "", city = "Perez Zeledon", region = "SJO", postcode = "11903", country = "Costa Rica", country_code = "CR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -100,7 +100,7 @@ address = {street = "Palmares", city = "Perez Zeledon", region = "SJO", postcode
 #? office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#?appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -120,7 +120,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "cconejov"
 
 ############################
 ## Regional Settings

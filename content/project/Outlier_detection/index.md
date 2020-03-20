@@ -4,7 +4,9 @@
 title: "Anomaly Detection using R"
 summary: "Identifying and predicting anomalies in time series is crucial for decision making. So, we are going to use an option in R for doing the work."
 authors: []
-tags: []
+tags:
+- Anomaly Detection
+- Unsupervised Algorithms
 categories: []
 date: 2020-03-17T16:53:01-06:00
 
@@ -21,11 +23,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/cconejov
 
 url_code: ""
 url_pdf: ""
