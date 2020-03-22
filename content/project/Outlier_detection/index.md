@@ -1,12 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Anomaly Detection using R"
+title: "Anomaly Detection in Time Series using R"
 summary: "Identifying and predicting anomalies in time series is crucial for decision making. So, we are going to use an option in R for doing the work."
 authors: []
 tags:
 - Anomaly Detection
 - Unsupervised Algorithms
+- Time Series
 categories: []
 date: 2020-03-17T16:53:01-06:00
 
@@ -30,7 +31,7 @@ links:
   url: https://twitter.com/cconejov
 
 url_code: ""
-url_pdf: ""
+url_pdf: "files/Report_Anomaly_detection_TS.pdf"
 url_slides: ""
 url_video: ""
 
@@ -41,7 +42,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Currently, a lot of processes cause information that can be gathered as time series. Predicting anomalies in the observations also is crucial for decision making. Identifying those events in time series is usually complicated, so packages like _Anomalize_ in R brings effective
-solutions for identifying outliers observations.
-
-Work in progress.
+Currently, a lot of processes cause information that can be gathered as time series. Predict anomalies in the observations also is crucial for determining changes in business patterns and decision making. Identifying those events in time series is usually complicated, so package like [anomalize](https://cran.r-project.org/web/packages/anomalize/index.html) in [R](https://cran.r-project.org/) brings effective
+solutions for identifying outliers observations. In this exercise, we use this package for detecting anomalies in the price of [Tesla](https://www.tesla.com/) shares from January 2019 to March 2020.

@@ -22,10 +22,10 @@ bio: My research interests include anomaly detection, imbalanced data, and fraud
 
 interests:
 - Backend Data Science.
-- Frontend Data Science
+- Frontend Data Science.
 - Data Visualization.
 - Data Ethics.
-
+- Reproducible workflow.
 
 education:
   courses:
