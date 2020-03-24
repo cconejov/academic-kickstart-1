@@ -50,12 +50,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cesar-conejo-villalobos-60094056/
-- icon: cv
-  icon_pack: ai
-  link: /files/CV_Cesar_En.pdf
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/13116888/cesar-conejo?tab=profile
 - icon: github
   icon_pack: fab
   link: https://github.com/cconejov
+- icon: cv
+  icon_pack: ai
+  link: /files/CV_Cesar_En.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
