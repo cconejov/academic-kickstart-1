@@ -28,7 +28,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Repository
-  url: https://github.com/cconejov/purchased_Bike
+  url: https://github.com/cconejov/Surv_Analysis_HDD
 url_code: ""
 url_pdf: "files/Report_Surv_Analysis_HDD.pdf"
 url_slides: ""
@@ -41,6 +41,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The branch of statistics that study the expected duration of time for an event to occur is called survival analysis. The number of events can be one or more.  This project reviews nonparametric methods like Kaplan-Meier, Nelson-Aalen, and Cox proportional hazards model is applied to the Hard Drive of [Backblaze](https://www.backblaze.com/) in the context of _failure-time analysis_. In this way, the goal is to find the probabilities that the hard disk works well for 1 year using the data collected in 2019. The package used for this exercise is [survival](https://cran.r-project.org/web/packages/survival/index.html). For the number of files, it also uses [data.table](https://cran.r-project.org/web/packages/data.table/index.html) package.
+The branch of statistics that study the expected duration of time for an event to occur is called survival analysis. The number of events can be one or more.  This project reviews nonparametric methods like Kaplan-Meier, Nelson-Aalen, and Cox proportional hazards model. These techniques are applied to the Hard Drive date sets of [Backblaze](https://www.backblaze.com/). This application of survival analysis is called _failure-time analysis_.  In this way, the goal is to find the probabilities that the hard disk works well for 1 year using the data collected in 2019. The package used for this exercise is [survival](https://cran.r-project.org/web/packages/survival/index.html). For the number of files, it also uses [data.table](https://cran.r-project.org/web/packages/data.table/index.html) package.
 
 Work in Progress.
