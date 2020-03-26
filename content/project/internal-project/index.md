@@ -1,24 +1,36 @@
 ---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 title: Supervised Algorithms
 summary: An introduction to supervised machine learning algorithms, especially methods for classification problems.
+authors: []
 tags:
 - Machine Learning
 - Supervised Algorithms
 - Classification
+categories: []
 date: "2020-03-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Image credit: [**www.norwegiancreations.com**](https://www.norwegiancreations.com/2018/10/artificial-intelligence-machine-learning-from-supervised-learning/)"
-  focal_point: Smart
 
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/cconejov
+  name: Repository
+  url: https://github.com/cconejov/purchased_Bike
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,7 +41,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 ## Machine learning: Supervised learning.
@@ -55,7 +67,7 @@ library(caret)        #CV
 ```
 
 
-Using the _purchasedBikes_ file (see <https://github.com/cconejov/purchased_Bike/tree/master/Data>), this table contains 1000 observations of 12 variables. We want to use 11 predictor variables for predict the binary class as output _PurchasedBike_. It indicates if a customer bought or not a bicycle.
+Using the [purchasedBikes](https://github.com/cconejov/purchased_Bike/tree/master/Data) file, this table contains 1000 observations of 12 variables. We want to use 11 predictor variables for predict the binary class as output _PurchasedBike_. It indicates if a customer bought or not a bicycle.
 
 ```r
 purchased_bike <- read.table("purchasedBikes.csv",

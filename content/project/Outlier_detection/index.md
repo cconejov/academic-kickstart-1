@@ -25,10 +25,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/cconejov
+  name: Repository
+  url: https://github.com/cconejov/Anomaly_Detection_TS
 
 url_code: ""
 url_pdf: "files/Report_Anomaly_detection_TS.pdf"

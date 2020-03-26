@@ -26,10 +26,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/cconejov
+  name: Repository
+  url: https://github.com/cconejov/clustering
 
 url_code: ""
 url_pdf: "files/Unsupervised_Algorithms.pdf"
