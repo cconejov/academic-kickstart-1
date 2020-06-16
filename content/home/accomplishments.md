@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com/"
+  title = "Data Engineer with Python Track"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/430f7522e70d4d2455772b8485680f7651177ca1"
+  date_start = "2020-05-15"
+  date_end = "2020-05-22"
+  description = ""
+
+
+
+[[item]]
   organization = "Promidat"
   organization_url = "https://www.promidat.com/"
   title = "Expert Program in Data Mining"

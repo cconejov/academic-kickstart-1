@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Graduate Student/Data Scientist
 
 # Organizations/Affiliations
-organizations:
-- name: University of Costa Rica
-  url: "http://www.emate.ucr.ac.cr/"
+## organizations:
+## - name: University of Costa Rica
+##  url: "http://www.emate.ucr.ac.cr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include anomaly detection, imbalanced data, and fraud detection.
@@ -23,19 +23,19 @@ bio: My research interests include anomaly detection, imbalanced data, and fraud
 interests:
 - Backend Data Science.
 - Frontend Data Science.
-- Data Visualization.
+- Statistics.
 - Data Ethics.
 - Reproducible workflow.
 
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-  - course: BSc in Actuarial Sciences
+#  - course: PhD in Actuarial Sciences and Mathematical Finances
+#    institution: University of Toronto
+#    year: 2027
+  - course: M.S. Statistics for Data Science
+    institution: University Carlos III of Madrid
+    year: 2020 - Present
+  - course: B.S. in Actuarial Sciences
     institution: University of Costa Rica
     year: 2014
 
@@ -76,3 +76,5 @@ user_groups:
 ---
 
 Cesar Conejo Villalobos is an actuary graduated from the University of Costa Rica with five years of experience in bank and finance industry. Along this path, he has learned and applied different techniques in backend and frontend data science, especially in data storage infrastructure, efficient computing, data analysis, and prediction algorithms focused on fraud detection. Cesar is also a philosophy lover, a passion that he shares with data science through the study of data ethics and data democratization.
+
+During the 2020-2021 academic year, he will be a master student in the program Statistics for Data Science at University Carlos III of Madrid.
