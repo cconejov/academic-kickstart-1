@@ -36,6 +36,8 @@ education:
   - course: M.S. Statistics for Data Science
     institution: University Carlos III of Madrid
     year: 2020 - Present
+
+
   - course: B.S. in Actuarial Sciences
     institution: University of Costa Rica
     year: 2014
