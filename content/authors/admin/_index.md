@@ -24,7 +24,8 @@ interests:
 - Backend Data Science.
 - Frontend Data Science.
 - Statistics.
-- Data Ethics.
+- Causal Inference.
+- Stochastic Programming
 - Reproducible workflow.
 
 education:
