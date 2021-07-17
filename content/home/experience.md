@@ -18,17 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "BI Analyst Senior"
+  title = "Business Intelligence Senior Analyst"
+  company = "BAC Latam"
+  company_url = "https://www.baccredomatic.com/es-cr"
+  location = "Costa Rica"
+  date_start = "2018-09-01"
+  date_end = "2019-12-15"
+  description = """
+  I worked on three fronts:
+
+  * Technical leadership: I provided mentorship and technical support for the data science team tasked with detecting the fraud patterns in credit/debit cards and acquiring business. I also reviewed experiments and assisted in the predictions models for other areas of the bank as the Compliance and Credit departments.
+
+  * Information quality: I conducted activities related to ensuring data quality and consistency. I designed interactive dashboards for showing the evolution of the main KPIs and proactively challenge the presence of anomalies and deviations. Dashboards were used for data-driven decisions of the Business team in order to explain historical and current events related to fraud tendencies and chargebacks.
+
+  * Technological solutions: I was responsible for the migration from structured manual business procedures to automatical systems, especially in the Chargebacks department.
+  """
+
+
+
+[[experience]]
+  title = "Business Intelligence Senior Analyst"
   company = "BAC CREDOMATIC"
   company_url = "https://www.baccredomatic.com/es-cr"
   location = "Costa Rica"
   date_start = "2017-07-01"
-  date_end = "2019-12-01"
+  date_end = "2018-09-01"
   description = """
   Responsibilities included:
 
-  * Development of metrics and interactive dashboards.
-  * Design and development of algorithms for credit card fraud detection.
+  * Acquirer commerce review:} I created SQL queries and R scripts to detect anomalies and deviations of the daily transactions associated with the distinct business. I used several techniques for detecting fraud cases, as Outlier detection, Association rules, Time series, and other non-parametric approaches.
+
+  * Actuarial Analysis: I applied actuarial validation techniques for the pre-feasibility of new insurance policies for acquirer commerce. Also, I estimated the required technical reserves for this new product based on three different actuarial techniques: Chain Ladder, Buhlmann, and Buhlman-Straub. Also, I employed survival analysis in order to determine the life expectancy of the credit/debit cards produced by the bank.
   """
 
 [[experience]]
@@ -38,6 +58,18 @@ date_format = "Jan 2006"
   location = "Costa Rica"
   date_start = "2014-12-01"
   date_end = "2017-07-01"
-  description = """ Implemented models for fraud detection, development of statistical models and actuarial analysis."""
+  description = """ Credit/debit card fraud detection: I served as a fraud analyst for creating and deploying rules for detecting and declining fraud transactions and avoiding economic losses for the customers. The used techniques for recognizing the anomalies span the areas of supervised and unsupervised Machine Learning.
+  """
+
+  [[experience]]
+    title = "Actuarial Intern"
+    company = "National Bank of Costa Rica"
+    company_url = "https://www.bncr.fi.cr/SitePages/Inicio.aspx"
+    location = "Costa Rica"
+    date_start = "2014-12-01"
+    date_end = "2017-07-01"
+    description = """ I implemented a software application using Matlab that compares the financial institutes of Costa Rica, using a risk scorecard based on Moody's methodology.
+    """
+
 
 +++
