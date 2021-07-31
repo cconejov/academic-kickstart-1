@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
 
-  * Acquirer commerce review:} I created SQL queries and R scripts to detect anomalies and deviations of the daily transactions associated with the distinct business. I used several techniques for detecting fraud cases, as Outlier detection, Association rules, Time series, and other non-parametric approaches.
+  * Acquirer commerce review: I created SQL queries and R scripts to detect anomalies and deviations of the daily transactions associated with the distinct business. I used several techniques for detecting fraud cases, as Outlier detection, Association rules, Time series, and other non-parametric approaches.
 
   * Actuarial Analysis: I applied actuarial validation techniques for the pre-feasibility of new insurance policies for acquirer commerce. Also, I estimated the required technical reserves for this new product based on three different actuarial techniques: Chain Ladder, Buhlmann, and Buhlman-Straub. Also, I employed survival analysis in order to determine the life expectancy of the credit/debit cards produced by the bank.
   """
@@ -66,8 +66,8 @@ date_format = "Jan 2006"
     company = "National Bank of Costa Rica"
     company_url = "https://www.bncr.fi.cr/SitePages/Inicio.aspx"
     location = "Costa Rica"
-    date_start = "2014-12-01"
-    date_end = "2017-07-01"
+    date_start = "2014-01-06"
+    date_end = "2014-06-20"
     description = """ I implemented a software application using Matlab that compares the financial institutes of Costa Rica, using a risk scorecard based on Moody's methodology.
     """
 
