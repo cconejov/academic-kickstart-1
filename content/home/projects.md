@@ -33,6 +33,10 @@ subtitle = ""
      name = "Anomaly Detection"
      tag = "Anomaly Detection"
 
+     [[content.filter_button]]
+      name = "UC3M"
+      tag = "UC3M"
+
 
    [[content.filter_button]]
      name = "Other"

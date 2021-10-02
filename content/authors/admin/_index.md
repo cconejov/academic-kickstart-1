@@ -22,11 +22,12 @@ bio: My research interests include anomaly detection, imbalanced data, and fraud
 
 interests:
 - Machine Learning.
-- Statistics.
+- Statistical Learning.
 - Causal Inference.
 - Operational Research.
-- Reproducible workflow.
+- Reproducible workflows.
 - Data democratization.
+- Coffee.
 
 education:
   courses:
@@ -34,8 +35,8 @@ education:
 #    institution: University of Toronto
 #    year: 2027
   - course: M.S. Statistics for Data Science
-    institution: University Carlos III of Madrid
-    year: 2020 - Present
+    institution: Carlos III University of Madrid
+    year: 2021
 
 
   - course: B.S. in Actuarial Sciences
@@ -78,10 +79,6 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am Cesar Conejo Villalobos, and I am an actuary who graduated from the [University of Costa Rica](http://www.emate.ucr.ac.cr/) with five years of experience in the bank and finance industry. Along this path, I have learned and applied different techniques in backend and frontend data science, especially in data storage infrastructure, efficient computing, data analysis, and prediction algorithms focused on fraud detection using SQL and R.
+Hello! I am Cesar Conejo Villalobo. I have a major in actuarial sciences from the [University of Costa Rica](http://www.emate.ucr.ac.cr/) and a master's degree in [Statistics for Data Science](https://www.uc3m.es/master/statistics-data-science) at [Carlos III University of Madrid](https://www.uc3m.es/home), Spain. Additionally, I have five and a half years of experience in the bank and finance industry. Along this path, I have learned and applied different back-end and front-end data science techniques, especially in data storage infrastructure, efficient computing, data analysis, and prediction algorithms focused on fraud detection using SQL and R.
 
-I am also a history and philosophy lover, a passion that I try to mix up with data science. The most useful thing that I have learned from history is that is not much use to make predictions and calculations in the medium and long term. The world always goes on its own business! In the end, things and situations that are unpredictable or very difficult to occurs can appear, resulting in the analysis being out of date. So, What we can do in this world of chaos? Well, in my case, I consider that the best thing we can do is to quantify the uncertainty with probability. =)
-
-During the 2020-2021 academic year, I am a master's student in the program [Statistics for Data Science](https://www.uc3m.es/master/statistics-data-science) at [University Carlos III of Madrid](https://www.uc3m.es/home). At this moment, I just finished all my courses and I am working on my final thesis project for finishing up the program.
-
-My thesis is based on applying Convolutional Neural Networks (CNNs), a popular Deep Learning framework used for detecting patterns, especially in images and photos. But, instead of analyzing photos, I am applying the CNNs in the context of statistical inference on high-dimensional data and Multiple Hypothesis testing.
+I am also a history and philosophy lover, a passion I try to mix with data science. The most helpful thing that I have learned from history is that it is not much use to make predictions and calculations in the medium and long term. The world always goes on its own business! In the end, things and situations that are unpredictable or very difficult to occurs can appear, resulting in the analysis being out of date. So, What can we do in this world of chaos? In my case, I consider that the best thing we can do is quantify the uncertainty with probability. =)
