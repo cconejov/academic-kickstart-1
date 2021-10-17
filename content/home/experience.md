@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Consultant, Professional Statistical Analyst"
+  title = "Consultant, Professional Statistical Analysis"
   company = "Promidat/FISERV"
   company_url = "https://promidat.com/"
   location = "Costa Rica"
   date_start = "2021-09-01"
   date_end = "2022-02-01"
   description = """
-  I am participating in a product solution for the LATAM section of FISERV. Responsibilities include the design of tables in a Hadoop environment, computation of several KPIs, and dashboard design focused on purchase and payment behavior. The project also provides segmentation analysis of the portfolio of customers and prediction models for customer attrition.  
+  I am participating in a product solution for the LATAM section of FISERV. Responsibilities include the design of tables in a Hadoop environment, computation of several KPIs, and dashboard design focused on purchase and payment behavior. The project also provides segmentation analysis of the portfolio of customers, Customer Life Value computation, and prediction models for customer attrition.  
   """
 
 [[experience]]
